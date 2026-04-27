@@ -1,6 +1,6 @@
 # 🏠 Bangalore Home Price Prediction System
 
-A full-stack data science project that predicts real estate prices in Bangalore based on user inputs such as area (sqft), number of bedrooms, and location.
+A full-stack Machine Learning  project that predicts real estate prices in Bangalore based on user inputs such as area (sqft), number of bedrooms, and location.
 
 This project demonstrates the complete lifecycle of a machine learning application — from data preprocessing and model building to backend deployment and frontend integration.
 
